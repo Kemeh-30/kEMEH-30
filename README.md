@@ -10,7 +10,7 @@ Here are some of my showcase repositories:
 https://github.com/Kemeh-30/Data-Representation-Project:This is a simple Flask web application with a RESTful API, utilizing Flask-RESTful for creating, updating, deleting, and retrieving items. The application also includes web pages to consume the API, allowing users to perform CRUD operations on the data.
 
 https://github.com/Kemeh-30/Fund-data:This Python script analyzes the Iris dataset using the pandas library for data manipulation and matplotlib/seaborn for data visualization.
-https://github.com/Kemeh-30/PFDA-Project:
+https://github.com/Kemeh-30/PFDA-Project:This repository contains a Python script for analyzing red wine quality using the pandas, seaborn, and matplotlib libraries. The script reads a dataset (red-winequality.csv), explores its characteristics, visualizes relationships between variables, and generates synthetic data for further analysis.
 
 
 Feel free to explore more of my projects on GitHub.https://github.com/Kemeh-30
