@@ -7,9 +7,9 @@ I'm passionate about , researching about data and I love taking up chalenges in 
 Showcase Repositories👍
 Here are some of my showcase repositories:
 
-Data-Representation-Project:This is a simple Flask web application with a RESTful API, utilizing Flask-RESTful for creating, updating, deleting, and retrieving items. The application also includes web pages to consume the API, allowing users to perform CRUD operations on the data.
+https://github.com/Kemeh-30/Data-Representation-Project:This is a simple Flask web application with a RESTful API, utilizing Flask-RESTful for creating, updating, deleting, and retrieving items. The application also includes web pages to consume the API, allowing users to perform CRUD operations on the data.
 
-Fund-data:This Python script analyzes the Iris dataset using the pandas library for data manipulation and matplotlib/seaborn for data visualization.
+:This Python script analyzes the Iris dataset using the pandas library for data manipulation and matplotlib/seaborn for data visualization.
 Machine-learning-and-Stat-Assessment: This code is designed to analyze the association between two categorical variables (drink preference and biscuit preference) using the chi-squared test and provides key statistics for interpretation.
 
 
