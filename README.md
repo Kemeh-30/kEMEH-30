@@ -8,7 +8,7 @@ Showcase Repositories
 Here are some of my showcase repositories:
 
 Data-Representation-Project:
-
+Fund-data:This Python script analyzes the Iris dataset using the pandas library for data manipulation and matplotlib/seaborn for data visualization.
 
 Feel free to explore more of my projects on GitHub.https://github.com/Kemeh-30
 
