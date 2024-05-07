@@ -7,8 +7,10 @@ I'm passionate about , researching about data and I love taking up chalenges. I'
 Showcase Repositories
 Here are some of my showcase repositories:
 
-Data-Representation-Project:
+Data-Representation-Project:This is a simple Flask web application with a RESTful API, utilizing Flask-RESTful for creating, updating, deleting, and retrieving items. The application also includes web pages to consume the API, allowing users to perform CRUD operations on the data.
+
 Fund-data:This Python script analyzes the Iris dataset using the pandas library for data manipulation and matplotlib/seaborn for data visualization.
+
 
 Feel free to explore more of my projects on GitHub.https://github.com/Kemeh-30
 
