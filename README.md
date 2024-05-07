@@ -10,7 +10,7 @@ Here are some of my showcase repositories:
 https://github.com/Kemeh-30/Data-Representation-Project:This is a simple Flask web application with a RESTful API, utilizing Flask-RESTful for creating, updating, deleting, and retrieving items. The application also includes web pages to consume the API, allowing users to perform CRUD operations on the data.
 
 https://github.com/Kemeh-30/Fund-data:This Python script analyzes the Iris dataset using the pandas library for data manipulation and matplotlib/seaborn for data visualization.
-: This code is designed to analyze the association between two categorical variables (drink preference and biscuit preference) using the chi-squared test and provides key statistics for interpretation.
+https://github.com/Kemeh-30/PFDA-Project:
 
 
 Feel free to explore more of my projects on GitHub.https://github.com/Kemeh-30
